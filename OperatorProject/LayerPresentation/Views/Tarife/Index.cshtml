@@ -1,0 +1,29 @@
+﻿@model IEnumerable<LayerPresentation.Models.TarifeViewModel>
+
+@{
+    ViewData["Title"] = "Tarife Listesi";
+    var musteriId = ViewData["MusteriId"];
+}
+
+
+<style>
+    .oval-kart {
+        border-radius: 15px; /* Oval kart kenarlarını yuvarlar */
+        background-color: #f0f0f0; /* Arkaplan rengi */
+        padding: 15px; /* İçeriği içte tutmak için iç boşluk */
+        margin-bottom: 10px; /* Kartlar arası boşluk */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Gölgelendirme */
+    }
+</style>
+
+<h1>Tarife Listesi</h1>
+
+@foreach (var tarife in Model)
+{
+    <div class="oval-kart">
+        <h3>@tarife.TarifeAdi</h3>
+        <p>@tarife.Icerik</p>
+        <p>@tarife.Fiyat ₺</p>
+        <a href="@Url.Action("Tanimla", "Tarife", new { tarifeId = tarife.Id, musteriId = musteriId})">
+    </div>
+}

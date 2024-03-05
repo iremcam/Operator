@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Müşteri ID Al";
+}
+
+<h1>Numara Sorgula</h1>
+
+<form asp-controller="Musteri" asp-action="MusteriIdAl" method="post">
+    <div class="form-group">
+        <label for="Telefon">Telefon Numarası :</label>
+        <input type="text" class="form-control" id="Telefon" name="Telefon" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Gönder</button>
+</form>

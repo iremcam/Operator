@@ -1,0 +1,79 @@
+﻿@model LayerPresentation.Models.MusteriViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Musteri Information</title>
+    <style>
+
+        .slider {
+            width: 20%;
+            float: left;
+
+        }
+
+        .content {
+            width: 80%;
+            float: left;
+   
+        }
+    </style>
+</head>
+<body>
+    <div class="slider">
+        
+        <ul>
+            <li><a href="@Url.Action("Index", "Tarife", new { musteriId = Model.MusteriId })">Tarife Tanımla</a></li>
+            <li><a href="@Url.Action("Index","TalepKaydi", new { musteriId = Model.MusteriId })">Talep Kayıtları</a></li>
+           
+        </ul>
+    </div>
+
+    <div class="content">
+        <h2>Musteri Information</h2>
+
+        <div id="kimlik">
+            <h3>Kimlik Bilgileri</h3>
+            @foreach (var kimlikBilgisi in Model.KimlikBilgileri)
+            {
+                <p>Tc: @kimlikBilgisi.Tc</p>
+                <p>Ad: @kimlikBilgisi.Ad</p>
+                <p>Soyad: @kimlikBilgisi.Soyad</p>
+                <p>DoğumTarihi: @kimlikBilgisi.DogumTarihi</p>
+                
+               
+                
+            }
+        </div>
+
+        <div id="tarife">
+            <h3>Paket Tutar Bilgileri</h3>
+
+            @foreach (var paketTutarBilgisi in Model.PaketTutarBilgileri)
+            {
+                if (paketTutarBilgisi.MusteriId == Model.MusteriId)
+                {
+                    <p>Tarife ID: @paketTutarBilgisi.TarifeId</p>
+
+                    @if (Model.Tarife.Any(t => t.Id == paketTutarBilgisi.TarifeId))
+                    {
+                        var tarife = Model.Tarife.First(t => t.Id == paketTutarBilgisi.TarifeId);
+                        <p>Tarife Adı: @tarife.TarifeAdi</p>
+                        <p>Tarife İçeriği: @tarife.Icerik</p>
+                        <p>Tutarı: @tarife.TarifeUcreti ₺</p>
+                    }
+                    else
+                    {
+                        <p>Tarife Adı: Bilinmiyor</p>
+                    }
+                }
+            }
+
+            
+        </div>
+
+       
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\OperatorProject\OperatorProject\bin\Debug\net7.0\OperatorProject.deps.json
+C:\Users\Lenovo\source\repos\OperatorProject\OperatorProject\bin\Debug\net7.0\OperatorProject.dll
+C:\Users\Lenovo\source\repos\OperatorProject\OperatorProject\bin\Debug\net7.0\OperatorProject.pdb
+C:\Users\Lenovo\source\repos\OperatorProject\OperatorProject\obj\Debug\net7.0\OperatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\OperatorProject\OperatorProject\obj\Debug\net7.0\OperatorProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\OperatorProject\obj\Debug\net7.0\OperatorProject.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OperatorProject\OperatorProject\obj\Debug\net7.0\OperatorProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\OperatorProject\obj\Debug\net7.0\OperatorProject.dll
+C:\Users\Lenovo\source\repos\OperatorProject\OperatorProject\obj\Debug\net7.0\refint\OperatorProject.dll
+C:\Users\Lenovo\source\repos\OperatorProject\OperatorProject\obj\Debug\net7.0\OperatorProject.pdb
+C:\Users\Lenovo\source\repos\OperatorProject\OperatorProject\obj\Debug\net7.0\ref\OperatorProject.dll

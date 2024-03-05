@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\obj\Debug\net7.0\LayerAccess.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\obj\Debug\net7.0\LayerAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\obj\Debug\net7.0\LayerAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\obj\Debug\net7.0\LayerAccess.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\obj\Debug\net7.0\LayerAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\bin\Debug\net7.0\LayerAccess.deps.json
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\bin\Debug\net7.0\LayerAccess.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\bin\Debug\net7.0\LayerAccess.pdb
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\bin\Debug\net7.0\LayerEntity.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\bin\Debug\net7.0\LayerEntity.pdb
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\obj\Debug\net7.0\LayerAccess.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\obj\Debug\net7.0\LayerAccess.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\obj\Debug\net7.0\refint\LayerAccess.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\obj\Debug\net7.0\LayerAccess.pdb
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\obj\Debug\net7.0\ref\LayerAccess.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\bin\Debug\net7.0\LayerAccess.runtimeconfig.json
+C:\Users\Lenovo\source\repos\OperatorProject\LayerAccess\obj\Debug\net7.0\LayerAccess.genruntimeconfig.cache

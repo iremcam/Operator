@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\OperatorProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\OperatorProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\OperatorProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OperatorProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.MvcApplicationPartsAssemblyInfo.cache

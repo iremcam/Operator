@@ -1,0 +1,49 @@
+﻿
+@model IEnumerable<TalepKaydiViewModel>
+
+@{
+    ViewData["Title"] = "Talep Kayıtları";
+}
+
+<h1>Talep Kayıtları</h1>
+
+<div style="text-align: right; margin-top: 10px;">
+    <form asp-controller="TalepKaydi" asp-action="YeniTalepKaydi" method="get">
+        <input type="hidden" name="musteriId" value="@ViewBag.MusteriId" />
+        <button type="submit">Yeni Talep Ekle</button>
+    </form>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+        
+            <th>Talep ID</th>
+            <th>Konu</th>
+            <th>Açıklama</th>
+            <th>Yeni Açıklama</th> 
+
+            <th></th> 
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var talep in Model)
+        {
+            <tr>
+              
+                <td>@talep.Id</td>
+                <td>@talep.Konu</td>
+                <td>
+                  @talep.Aciklama
+                </td>
+                <td>
+                    <form asp-controller="Talep" asp-action="UpdateDescription" method="post">
+                        <input type="hidden" name="talepId" value="@talep.Id" />
+                        <input type="text" name="yeniAciklama" placeholder="Yeni açıklama..." />
+                        <button type="submit">Ekle</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

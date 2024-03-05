@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\obj\Debug\net7.0\LayerEntity.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\obj\Debug\net7.0\LayerEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\obj\Debug\net7.0\LayerEntity.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\obj\Debug\net7.0\LayerEntity.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\obj\Debug\net7.0\LayerEntity.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\bin\Debug\net7.0\LayerEntity.deps.json
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\bin\Debug\net7.0\LayerEntity.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\bin\Debug\net7.0\LayerEntity.pdb
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\obj\Debug\net7.0\LayerEntity.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\obj\Debug\net7.0\refint\LayerEntity.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\obj\Debug\net7.0\LayerEntity.pdb
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\obj\Debug\net7.0\ref\LayerEntity.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\bin\Debug\net7.0\LayerEntity.runtimeconfig.json
+C:\Users\Lenovo\source\repos\OperatorProject\LayerEntity\obj\Debug\net7.0\LayerEntity.genruntimeconfig.cache

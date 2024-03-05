@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\obj\Debug\net7.0\LayerBusiness.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\obj\Debug\net7.0\LayerBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\obj\Debug\net7.0\LayerBusiness.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\obj\Debug\net7.0\LayerBusiness.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\obj\Debug\net7.0\LayerBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\bin\Debug\net7.0\LayerBusiness.deps.json
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\bin\Debug\net7.0\LayerBusiness.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\bin\Debug\net7.0\LayerBusiness.pdb
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\bin\Debug\net7.0\LayerAccess.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\bin\Debug\net7.0\LayerEntity.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\bin\Debug\net7.0\LayerAccess.pdb
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\bin\Debug\net7.0\LayerEntity.pdb
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\obj\Debug\net7.0\LayerBusiness.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\obj\Debug\net7.0\LayerBusiness.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\obj\Debug\net7.0\refint\LayerBusiness.dll
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\obj\Debug\net7.0\LayerBusiness.pdb
+C:\Users\Lenovo\source\repos\OperatorProject\LayerBusiness\obj\Debug\net7.0\ref\LayerBusiness.dll

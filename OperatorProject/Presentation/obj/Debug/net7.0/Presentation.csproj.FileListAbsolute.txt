@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\OperatorProject\Presentation\obj\Debug\net7.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\OperatorProject\Presentation\obj\Debug\net7.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\OperatorProject\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\Presentation\obj\Debug\net7.0\Presentation.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OperatorProject\Presentation\obj\Debug\net7.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OperatorProject\Presentation\obj\Debug\net7.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\OperatorProject\Presentation\obj\Debug\net7.0\Presentation.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\OperatorProject\Presentation\obj\Debug\net7.0\Presentation.RazorAssemblyInfo.cs
